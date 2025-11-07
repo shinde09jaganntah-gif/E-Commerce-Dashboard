@@ -25,10 +25,10 @@ It provides a clear visualization of sales trends, profit margins, product categ
 ---
 
 ## 🧠 Insights from Dashboard
-- **Highest Sales** from the **Fashion** category (~4.3M)
-- **Credit Card** is the most used payment method (~74% of total sales)
+- **Highest Sales** from the **Fashion** category (~4.0 M)
+- **Credit Card** is the most used payment method (~74.2% of total sales)
 - **Medium Priority Orders** contribute the most profit (~2M)
-- Monthly performance fluctuates with significant MoM growth in **March (30.89%)** and **April (37.15%)**
+- Monthly performance fluctuates with significant MoM growth in **March (32.10%)** and **April (39.70%)**
 
 ---
 
@@ -37,6 +37,10 @@ It provides a clear visualization of sales trends, profit margins, product categ
 - **Microsoft Excel / CSV** (as data source)
 - **DAX (Data Analysis Expressions)**
 - **Data Transformation:** Power Query Editor
+
+## 📊 Summary
+
+This Power BI E-Commerce Dashboard provides a comprehensive analysis of key business metrics such as total sales, profit, discount trends, and customer behavior. It helps identify sales performance, profit margins, and category-wise growth insights for better decision-making. 
 
 ## 📷 Dashboard Preview
 <img width="1369" height="742" alt="image" src="https://github.com/user-attachments/assets/0e6f06d3-235d-4cfb-905e-ff1e4cbf26fe" />
